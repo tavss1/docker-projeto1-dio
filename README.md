@@ -35,8 +35,7 @@ Para rodar o projeto localmente sem precisar instalar um servidor manualmente, s
 
 ```plaintext
 docker-projeto1-dio/
-├── compose/
-│   └── docker-compose.yml   # Configuração do serviço Apache
+├── docker-compose.yml   # Configuração do serviço Apache
 ├── website/                 # Arquivos estáticos da aplicação
 │   ├── index.html
 │   ├── css/
